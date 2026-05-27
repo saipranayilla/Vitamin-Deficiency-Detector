@@ -91,4 +91,4 @@ Dataset used contains labeled images of vitamin deficiencies.
 ---
 
 ## 👨‍💻 Author
-Rahul Raj
+Sai pranay illa
